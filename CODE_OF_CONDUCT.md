@@ -1,13 +1,17 @@
-# Contributing Guidelines
+### **Task 4: CODE_OF_CONDUCT.md**
+Use the **Contributor Covenant template**. Example intro:
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+```markdown
+# Contributor Covenant Code of Conduct
 
-## How to Contribute
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes.
-4. Commit (`git commit -m "Describe changes"`).
-5. Push (`git push origin feature-name`).
-6. Open a Pull Request.
+## Our Pledge
+We pledge to make participation in our project a harassment‑free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity, level of experience, nationality, personal appearance, race, religion, or sexual identity.
 
-Thank you for helping improve this project!
+## Our Standards
+Examples of behavior that contributes to a positive environment:
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints
+- Gracefully accepting constructive criticism
+- Showing empathy towards other community members
+
+[Full Contributor Covenant text here…]
